@@ -146,10 +146,10 @@ end bnds
 read grid
   1
   title="test grid"
-  numxcells=100 numycells=100 numzcells=0
-  xmin=0 xmax=+10
-  ymin=79 ymax=+10
-  zmin=1000 zmax=0
+  numxcells=10 numycells=10 numzcells=10
+  xmin=0 xmax=10
+  ymin=0 ymax=+10
+  zmin=0 zmax=10
 end grid
 end data
 end
